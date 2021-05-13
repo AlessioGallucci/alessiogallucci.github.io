@@ -18,5 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Education"
+    url: /non-menu-page/
+    
   # - title: "Guide"
   #   url: /markdown/
