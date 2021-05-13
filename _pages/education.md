@@ -1,6 +1,6 @@
 ---
 permalink: /education/
-title: "Education"
+title:
 excerpt: "education"
 author_profile: true
 redirect_from: 
