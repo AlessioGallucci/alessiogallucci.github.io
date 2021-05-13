@@ -1,6 +1,6 @@
 ---
 permalink: /education/
-title:
+title: "Education"
 excerpt: "education"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-### Master of Science (MSc) in Applied Mathematics \br Politecnico di Torino
+### Master of Science (MSc) in Applied Mathematics <br /> Politecnico di Torino
 > 2014 – 2016 \
 > Grade: 110/110 cum laude 
 
@@ -16,7 +16,7 @@ redirect_from:
 > Exams: Artificial intelligence, Stochastic processes, Statistical models, Discrete mathematics, Graphs and dynamics over network, Equations of Mathematical Physics, Information theory and codes, Numerical methods for partial derivative equations, Economics, Operating system, Cryptography, Database management systems, Algorithms for optimisation and statistical inference, Financial engineering.
 Tools: Latex, Matlab, Octave, java, SQL, C, C++, Bash, R
 
-### Bachelor's degree (BSc)  in Applied Mathematics \br Politecnico di Torino
+### Bachelor's degree (BSc)  in Applied Mathematics <br /> Politecnico di Torino
 > 2010 – 2013 \
 > Grade: 92/110
 
