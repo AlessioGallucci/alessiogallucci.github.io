@@ -1,7 +1,7 @@
 ---
 permalink: /education/
 title: "Education"
-excerpt: "This is a page not in th emain menu"
+excerpt: "education"
 author_profile: true
 redirect_from: 
 
