@@ -13,8 +13,8 @@ redirect_from:
 > Grade: 110/110 cum laude 
 
 > Thesis: Parametric 3D Human Body Modelling and Analysis. \
-> Exams: Artificial intelligence, Stochastic processes, Statistical models, Discrete mathematics, Graphs and dynamics over network, Equations of Mathematical Physics, Information theory and codes, Numerical methods for partial derivative equations, Economics, Operating system, Cryptography, Database management systems, Algorithms for optimisation and statistical inference, Financial engineering.
-Tools: Latex, Matlab, Octave, java, SQL, C, C++, Bash, R
+> Exams: Artificial intelligence, Stochastic processes, Statistical models, Discrete mathematics, Graphs and dynamics over network, Equations of Mathematical Physics, Information theory and codes, Numerical methods for partial derivative equations, Economics, Operating system, Cryptography, Database management systems, Algorithms for optimisation and statistical inference, Financial engineering. \
+> Tools: Latex, Matlab, Octave, java, SQL, C, C++, Bash, R
 
 ### Bachelor's degree (BSc)  in Applied Mathematics <br /> @Politecnico di Torino
 > 2010 – 2013 \
